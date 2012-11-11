@@ -3,7 +3,7 @@ use warnings;
 
 package Dist::Zilla::Plugin::Test::Fixme;
 {
-  $Dist::Zilla::Plugin::Test::Fixme::VERSION = '1.122640';
+  $Dist::Zilla::Plugin::Test::Fixme::VERSION = '1.123160';
 }
 
 # ABSTRACT: Check code for FIXMEs.
@@ -47,7 +47,7 @@ Dist::Zilla::Plugin::Test::Fixme - Check code for FIXMEs.
 
 =head1 VERSION
 
-version 1.122640
+version 1.123160
 
 =for test_synopsis 1;
 __END__

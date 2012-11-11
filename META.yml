@@ -25,10 +25,11 @@ requires:
   Dist::Zilla::Role::FileGatherer: 0
   Dist::Zilla::Role::TextTemplate: 0
   Moose: 0
+  Test::Fixme: 0
   strict: 0
   warnings: 0
 resources:
   bugtracker: https://github.com/andrewrjones/perl5-Dist-Zilla-Plugin-Test-Fixme/issues
   homepage: https://github.com/andrewrjones/perl5-Dist-Zilla-Plugin-Test-Fixme
   repository: https://github.com/andrewrjones/perl5-Dist-Zilla-Plugin-Test-Fixme.git
-version: 1.122640
+version: 1.123160
